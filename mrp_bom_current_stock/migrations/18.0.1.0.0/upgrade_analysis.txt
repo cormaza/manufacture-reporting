@@ -1,0 +1,4 @@
+---Models in module 'mrp_bom_current_stock'---
+---Fields in module 'mrp_bom_current_stock'---
+---XML records in module 'mrp_bom_current_stock'---
+---nothing has changed in this module--
